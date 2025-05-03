@@ -1,5 +1,5 @@
 # Lyttle Development
-Let the Lyttle things make a difference!
+[Make the Lyttle details, a lasting impression!](https://www.lyttledevelopment.com/)
 
 Our Real Github: [github.com/Lyttle-Development](https://github.com/Lyttle-Development)
 
